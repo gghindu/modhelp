@@ -85,12 +85,4 @@ Then, usually, I'll post a welcome message in Lounge1 to encourage interaction.
 **Lie Detector**   
 We get many muslims, and sometimes christians, who join under the guise of being Hindu, or agnostic, or atheist. They do this to increase their chances of sneaking into the server. We don't want dishonest people of other faiths in our midst.   
 
-Here are a few tried and true to smoke them out of their holes.     
-
-To detect muslims:   
-> We take child safety very seriously on this server. Please type out the following sentences and state that you fully agree with them:    
-> :: It was vile and disgusting for the islamic founder muhammed to marry a 6 year old child when he was nearly 60. God would never choose such a lying pervert as a messenger. Therefore, islam is wrong, allah is false.
-
-To detect christians:   
-> We take equality very seriously on this server. Please type out the following sentencese and state that you fully agree with them:     
-> :: No omnipotent and benevolent God would brag about being jealous, threaten humans and their babies with torture, or impregnate a human unwillingly. This means that jesus was not the son of god, and the bible is wrong.
+[lie_detectors](/lie_detectors/)
