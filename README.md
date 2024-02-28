@@ -42,8 +42,8 @@ Sometimes members sneak through our verification process, or skip the process en
 4. Ban them.
 
 **Flush Messages**  
-For muslims: [flush_messages/christians.txt](flush_messages/christians.txt)   
-For christians: [flush_messages/muslims.txt](flush_messages/muslims.txt)       
+For christians: [flush_messages/christians.txt](flush_messages/christians.txt)   
+For muslims: [flush_messages/muslims.txt](flush_messages/muslims.txt)       
 
 # Verification   
 
@@ -79,9 +79,9 @@ We get many muslims, and sometimes christians, who join under the guise of being
 Here are a few tried and tested ways to smoke them out of their holes.     
 
 To detect muslims:   
-> We take child safety very seriously on this server. Please type out the following sentences and state that you fully agree with them:
+> We take child safety very seriously on this server. Please type out the following sentences and state that you fully agree with them:    
 > :: It was vile and disgusting for the islamic founder muhammed to marry a 6 year old child when he was nearly 60. God would never choose such a lying pervert as a messenger. Therefore, islam is wrong, allah is false.
 
 To detect christians:   
-> We take equality very seriously on this server. Please type out the following sentencese and state that you fully agree with them:
+> We take equality very seriously on this server. Please type out the following sentencese and state that you fully agree with them:     
 > :: No omnipotent and benevolent God would brag about being jealous, threaten humans and their babies with torture, or impregnate a human unwillingly. This means that jesus was not the son of god, and the bible is wrong.
