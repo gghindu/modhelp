@@ -1,5 +1,5 @@
 # Lie Detectors   
-Lying about being Hindu takes less commitment than denouncing one's own faith. We're counting on that to try to sniff out the liars. 
+We get many muslims, and sometimes christians, who join under the guise of being Hindu, or agnostic, or atheist. They do this to increase their chances of sneaking into the server. We don't want dishonest people of other faiths in our midst. What works to our advantage is that lying about being Hindu takes less commitment than denouncing one's own faith. We're counting on that to try to sniff out the liars. 
 
 **Muslims**   
 > We take child safety very seriously on this server. Please type out the following sentences and state that you fully agree with them:    
