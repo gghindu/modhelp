@@ -1,12 +1,12 @@
 # Hindu Server Staff Guide
 
 **Overall Goal**   
-The Hinduism Discord server is a place for Hindus, and those interested in Hinduism, to gather, talk, make friends, and learn. We want this to be a safe space for those interested in living a Hindu life, regardless of their background, or their pre-existing level of knowledge. Likewise, we want this to be a place where Hindus can discuss, debate, and test their ideas with other Hindus.
+The Hinduism Discord server is a place for Hindus, and those interested in Hinduism, to gather, talk, make friends, and learn. We want this to be a safe space for the aforementioned people, regardless of their background, or their pre-existing level of knowledge. Likewise, we want this to be a place where Hindus can discuss, debate, and test their ideas with other Hindus.
 
 **What We Are Not**   
-A place for people to spread vulgarity or hate   
-A place for non-Hindus to proselytize other religions   
-A place for non-Hindus to demand justification for Hindu faith   
+Not a place for people to spread vulgarity or hate   
+Not a place for non-Hindus to proselytize other religions   
+Not a place for non-Hindus to demand justification for Hindu faith   
 
 **Useful Moderator Commands**  
 > `w!timeout @TargetUser 30m` -- to time a user out. You can also use 'h' for hours.   
@@ -16,7 +16,7 @@ A place for non-Hindus to demand justification for Hindu faith
 > `w!purge 50` -- delete the last 50 messages in the current chat.   
 > `>>clear @TargetUser` -- delete all messages from a user in the current chat.   
 
-The above commands use intermediary moderator bots Wick and Vortex. The reason for using Wick is because Discord otherwise requires you to have [Multi-Factor Authentication](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Multi-Factor-Authentication) enabled on your account in order to be a moderator. This means you'd have to attach your phone number to your Discord account, which may not be something you want to do. If, however, you have MFA enabled on your account, then you can simply right-click a user and mute/unmute/kick/ban them. Purging and clearing, however, is still a utility only available via bots.   
+The above commands use intermediary moderator bots Wick and Vortex. The reason for using Wick is because Discord otherwise requires you to have [Multi-Factor Authentication](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Multi-Factor-Authentication) enabled on your account in order to be a moderator. This means you'd have to attach your phone number to your Discord account, which may not be something you want to do. If, however, you have MFA enabled on your account, then you can simply right-click a user and mute/unmute/kick/ban them. Purging and clearing, however, are still utilities exclusive to these bots.   
 
 Wick Bot Docs: https://docs.wickbot.com/     
 Vortext Bot Docs: https://github.com/jagrosh/Vortex/wiki/Moderator-Guide    
@@ -48,7 +48,7 @@ For muslims: [flush_messages/muslims.txt](flush_messages/muslims.txt)
 # Verification   
 
 **Overall Goal**    
-Many people join the server every day. We have even experienced raids over duration of the server's existence. Most often, it's by islamists interested in denigrating and demoralizing Hindus. But we also get a fair share of christians and atheists coming to do the same thing. Their method of hurting Hindus comes in a few forms.   
+Many people join the server every day. We have even experienced raids over the duration of the server's existence. Most often, it's by islamists interested in denigrating and demoralizing Hindus. But we also get a fair share of christians and atheists coming to do the same thing. Their method of hurting Hindus comes in a few forms.   
 
 Most common (80%) are those who want to throw out insults immediately. These are usually racist in nature, but often times when the troll is South Asian, then the insults will focus more on religious and cultural landmarks of Hinduism. Less common (15%) are those who join to try to demoralize Hindus via debate. In much the same way that two ants are unlikely to theorize their way into understanding a black hole, people trying to define God using logic are largely partaking in self-soothing sophistry. Rarely (5%) we get evangelists, who think they will be rewarded by their deity if they could convert a few of us.     
 
@@ -76,7 +76,7 @@ Why? Because there is a time and place for Hindus to roll up their sleeves and e
 **Lie Detector**   
 We get many muslims, and sometimes christians, who join under the guise of being Hindu, or agnostic, or atheist. They do this to increase their chances of sneaking into the server. We don't want dishonest people of other faiths in our midst.   
 
-Here are a few tried and tested ways to smoke them out of their holes.     
+Here are a few tried and true to smoke them out of their holes.     
 
 To detect muslims:   
 > We take child safety very seriously on this server. Please type out the following sentences and state that you fully agree with them:    
