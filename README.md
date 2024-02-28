@@ -53,7 +53,11 @@ Many people join the server every day. We have even experienced raids over the d
 Most common (80%) are those who want to throw out insults immediately. These are usually racist in nature, but often times when the troll is South Asian, then the insults will focus more on religious and cultural landmarks of Hinduism. Less common (15%) are those who join to try to demoralize Hindus via debate. In much the same way that two ants are unlikely to theorize their way into understanding a black hole, people trying to define God using logic are largely partaking in self-soothing sophistry. Rarely (5%) we get evangelists, who think they will be rewarded by their deity if they could convert a few of us.     
 
 Understandably, we want to filter out all three of the above types.   
-Why? Because there is a time and place for Hindus to roll up their sleeves and engage in (pointless) debate, or taunt and dispatch trolls. These are all part of the real world. But we want this server of ours to be a _break_ from those toxic interactions. Furthermore, we have children in our server, and they should not have to bear witness to the hideous imaginations of trolls.    
+Why? Because there is a time and place for Hindus to roll up their sleeves and engage in (pointless) debate, or taunt and dispatch trolls. These are all part of the real world. But we want this server of ours to be a _break_ from those toxic interactions. Furthermore, we have children in our server, and they should not have to bear witness to the hideous imaginations of trolls.  
+
+**Granting access**   
+If you want to verify someone, remove their (unverified) role and add (verified).   
+Then, usually, I'll post a welcome message in Lounge1 to encourage interaction.   
 
 **Decision Making**   
 - 🟢 If invited by a trusted/active member     
