@@ -72,7 +72,7 @@ Then, usually, I'll post a welcome message in Lounge1 to encourage interaction.
   - Examples: Which form of God do you feel closest to? Tell me some facts about him/her
   - 🟢 If they seem knowledgeable about Hinduism
   - 🟢 If they seem very respectful of Hindu deities (Krishn-ji, Ram-bhagwan, Lord Shiva, etc)    
-  - 🟡 If you suspect they are lying, refer to the Lie Detector section   
+  - 🟡 If you suspect they are lying, refer to [lie_detectors](/lie_detectors/)  
 - 🟡 If applicant is of a non-Dharmic religion, ask them to be specific about why they want to join
   - 🟢 If you get the vibe that they are genuinely interested in becoming Hindu
   - 🔴 If you get the vibe that they are just here to argue, troll, then respond with this:
@@ -80,9 +80,4 @@ Then, usually, I'll post a welcome message in Lounge1 to encourage interaction.
 - 🟡 If applicant is agnostic/atheist, ask them to be specific about why they want to join
   - 🔴 If you get the vibe that they are just here to argue, troll, then respond with this:
     - "You won't need full server access for this. Please add and DM @enmediares with questions you have about Hinduism, or our verification process."
-  - 🟡 If you suspect they are lying, refer to the Lie Detector section
-
-**Lie Detector**   
-We get many muslims, and sometimes christians, who join under the guise of being Hindu, or agnostic, or atheist. They do this to increase their chances of sneaking into the server. We don't want dishonest people of other faiths in our midst.   
-
-[lie_detectors](/lie_detectors/)
+  - 🟡 If you suspect they are lying, refer to [lie_detectors](/lie_detectors/)
