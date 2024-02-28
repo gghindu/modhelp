@@ -42,8 +42,8 @@ Sometimes members sneak through our verification process, or skip the process en
 4. Ban them.
 
 **Flush Messages**  
-For muslims: https://pastebin.com/aw1vvcxV   
-For christians: https://pastebin.com/qnfztw7C       
+For muslims: [flush_messages/christians.txt](flush_messages/christians.txt)   
+For christians: [flush_messages/muslims.txt](flush_messages/muslims.txt)       
 
 # Verification   
 
