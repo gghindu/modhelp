@@ -9,11 +9,16 @@ Not a place for non-Hindus to proselytize other religions
 Not a place for non-Hindus to demand justification for Hindu faith   
 
 **Useful Moderator Commands**  
-> `w!timeout @TargetUser 30m` -- to time a user out. You can also use 'h' for hours.   
-> `w!deltimeout @TargetUser` -- to remove the timeout for a user.   
-> `w!kick @TargetUser ?r for being annoying` -- to kick a user, mod logs will show "for being annoying" as the reason.    
-> `w!ban @TargetUser ?r for being a troll` --- to ban a user, mod logs will show "for being a troll" as the reason.    
-> `w!purge 50` -- delete the last 50 messages in the current chat.   
+> `w!timeout @TargetUser 30m` -- to time a user out. You can also use 'h' for hours.
+> 
+> `w!deltimeout @TargetUser` -- to remove the timeout for a user.
+> 
+> `w!kick @TargetUser ?r for being annoying` -- to kick a user, mod logs will show "for being annoying" as the reason.
+> 
+> `w!ban @TargetUser ?r for being a troll` --- to ban a user, mod logs will show "for being a troll" as the reason.
+> 
+> `w!purge 50` -- delete the last 50 messages in the current chat.
+> 
 > `>>clear @TargetUser` -- delete all messages from a user in the current chat.   
 
 The above commands use intermediary moderator bots Wick and Vortex. The reason for using Wick is because Discord otherwise requires you to have [Multi-Factor Authentication](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Multi-Factor-Authentication) enabled on your account in order to be a moderator. This means you'd have to attach your phone number to your Discord account, which may not be something you want to do. If, however, you have MFA enabled on your account, then you can simply right-click a user and mute/unmute/kick/ban them. Purging and clearing, however, are still utilities exclusive to these bots.   
