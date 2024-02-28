@@ -65,19 +65,19 @@ If you want to verify someone, remove their (unverified) role and add (verified)
 Then, usually, I'll post a welcome message in Lounge1 to encourage interaction.   
 
 **Decision Making**   
-- 🟢 If invited by a trusted/active member     
-- 🟢 If profile is very obviously Hindu, and is NOT a brand new user       
-- 🟢 If profile is very obviously female, let them in (_We have seen 1000+ trolls, 2 have been female_)
-- 🟡 If applicant claims to be Hindu, ask a followup question that Hindus will likely know, but non-Hindus will not    
+- 💚 If invited by a trusted/active member     
+- 💚 If profile is very obviously Hindu, and is NOT a brand new user       
+- 💚 If profile is very obviously female (_We have seen 1000+ trolls, 2 have been female_)
+- 🟨 If applicant claims to be Hindu, ask a followup question that Hindus will likely know, but non-Hindus will not    
   - Examples: Which form of God do you feel closest to? Tell me some facts about him/her
-  - 🟢 If they seem knowledgeable about Hinduism
-  - 🟢 If they seem very respectful of Hindu deities (Krishn-ji, Ram-bhagwan, Lord Shiva, etc)    
-  - 🟡 If you suspect they are lying, refer to [lie_detectors](/lie_detectors/)  
-- 🟡 If applicant is of a non-Dharmic religion, ask them to be specific about why they want to join
-  - 🟢 If you get the vibe that they are genuinely interested in becoming Hindu
+  - 💚 If they seem knowledgeable about Hinduism
+  - 💚 If they seem very respectful of Hindu deities (Krishn-ji, Ram-bhagwan, Lord Shiva, etc)    
+  - 🟨 If you suspect they are lying, refer to [lie_detectors](/lie_detectors/)  
+- 🟨 If applicant is of a non-Dharmic religion, ask them to be specific about why they want to join
+  - 💚 If you get the vibe that they are genuinely interested in becoming Hindu
   - 🔴 If you get the vibe that they are just here to argue, troll, then respond with this:
     - "You won't need full server access for this. Please add and DM @enmediares with questions you have about Hinduism, or our verification process."
-- 🟡 If applicant is agnostic/atheist, ask them to be specific about why they want to join
+- 🟨 If applicant is agnostic/atheist, ask them to be specific about why they want to join
   - 🔴 If you get the vibe that they are just here to argue, troll, then respond with this:
     - "You won't need full server access for this. Please add and DM @enmediares with questions you have about Hinduism, or our verification process."
-  - 🟡 If you suspect they are lying, refer to [lie_detectors](/lie_detectors/)
+  - 🟨 If you suspect they are lying, refer to [lie_detectors](/lie_detectors/)
