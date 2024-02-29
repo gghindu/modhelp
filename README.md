@@ -33,7 +33,8 @@ Our general philisophy is to let the server grow and take shape organically. We 
 The fastest way to get accused of abusing your powers is to be part of an argument, and then take moderation actions against people on the other side of the argument. Even if you are well intentioned in doing this, the optics are bad. It also brews bad faith in the other party, reducing their trust in the fairness of our server.     
 
 **Take repeat offenderes to #jail**  
-Remove the (verified) role from the problem user, and add (jail) role. This will remove their visibility to all channels except #jail. Inside of jail, you can let them know of their mistake, and ask them to agree not to repeat it. If they refuse, you can keep them in jail for longer. If they don't cooperate at all, tag a senior staff member.   
+Remove the (verified) role from the problem user, and add (jail) role. This will remove their visibility to all channels except #jail. Inside of jail, you can let them know of their mistake, and ask them to agree not to repeat it. If they refuse, you can keep them in jail for longer. If they don't cooperate at all, tag a senior staff member.    
+_NOTE_: This is only available to you if you have full moderator access, via multi-factor authentication.   
 
 **Time members out if you don't think jail would help**   
 This is usually the case when someone is being annoying or offensive, but you don't think it warrants a ban from the server. Time them out to give them an opportunity to cool down, and to save the chat from spiraling into more toxicity. I recommend starting with a reasonable duration, like 60m. Then increase by a factor of 2 for repeat offenses in a short span.   
