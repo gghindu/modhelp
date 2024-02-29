@@ -79,6 +79,7 @@ Then, usually, I'll post a welcome message in Lounge1 to encourage interaction.
   - 🔴 If you get the vibe that they are just here to argue, troll, then respond with this:
     - "You won't need full server access for this. Please add and DM @enmediares with questions you have about Hinduism, or our verification process."
 - 🟨 If applicant is agnostic/atheist, ask them to be specific about why they want to join
-  - 🔴 If you get the vibe that they are just here to argue, troll, then respond with this:
+  - 💚 If you get the vibe that they are genuinely interested in becoming Hindu
+  - 🔴 If you get the vibe that they are just here to argue or troll, then respond with this:
     - "You won't need full server access for this. Please add and DM @enmediares with questions you have about Hinduism, or our verification process."
   - 🟨 If you suspect they are lying, refer to [lie_detectors](/lie_detectors/)
