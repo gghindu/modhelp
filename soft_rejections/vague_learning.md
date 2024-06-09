@@ -14,4 +14,4 @@ The following is a quick rundown of basic Hindu beliefs:
 [The Holy Bhagavad Gita](https://www.holy-bhagavad-gita.org/) by Swami Mukundananda   
 
 For all of your followup questions, please ask: [Hinduism Stack Exchange](https://hinduism.stackexchange.com/)   
-Best of luck on your journey of exploration!
+Best of luck on your journey to finding truth!
