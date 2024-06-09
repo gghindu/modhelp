@@ -5,7 +5,7 @@ Your purpose is better served using a more structured approach. As a courtesy, w
 
 The following is a quick rundown of basic Hindu beliefs:   
 - **Moksha**: our ultimate goal is spiritual union with God, at which point we escape Samsara   
-- **Samsara**: the substance from which we emerge is eternal, born again in many forms   
+- **Samsara**: the cycle of rebirths, because the substance from which we arise is eternal      
 - **Dharma**: the cosmic order which we try to uncover and follow, to not incur bad Karma   
 - **Karma**: all actions have a reaction, the effects of our decisions propagate onwards
 
