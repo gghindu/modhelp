@@ -1,3 +1,4 @@
+```
 Your entry is denied, because this server does not serve as a general introduction to Hinduism. 
 This decision is final, and permanent.     
 
@@ -15,3 +16,4 @@ The following is a quick rundown of basic Hindu beliefs:
 
 For all of your followup questions, please ask: [Hinduism Stack Exchange](https://hinduism.stackexchange.com/)   
 Best of luck on your journey to finding truth!
+```
