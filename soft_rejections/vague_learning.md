@@ -1,8 +1,8 @@
 ```
-Your entry is denied, because this server does not serve as a general introduction to Hinduism. 
-This decision is final, and permanent.     
+Your entry is denied, because this server does not serve as a general introduction to Hinduism.  
+Your purpose is better served using a more structured approach. (This decision is final.)    
 
-Your purpose is better served using a more structured approach. As a courtesy, we have compiled a few links to better help you navigate the basics of subject.    
+As a courtesy, we have compiled a few pointers to better help you navigate the basics of subject.    
 
 The following is a quick rundown of basic Hindu beliefs:   
 - **Moksha**: our ultimate goal is spiritual union with God, at which point we escape Samsara   
